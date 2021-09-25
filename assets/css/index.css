@@ -1,0 +1,260 @@
+*
+{
+margin:0;
+padding:0;
+}
+/*----------Start Navbar----------*/
+
+.topnav
+{
+    margin-left:200px;
+}
+.topnav a
+{
+    list-style-type: none;
+    float: left;
+    padding-left: 25px;
+    color: black;
+}
+#icon
+{
+    height: 55px;
+    width: 70px;
+}
+
+/*----------End Navbar----------*/
+
+/*----------Start Header----------*/
+
+.banner_textarea img
+{
+    height:500px;
+    width:700px;
+}
+.banner_imgarea img
+{
+    height:500px;
+    width:348px;
+    float: right;
+}
+ .one
+{
+    margin-top: 100px;
+    padding-right: 20px;
+}
+.two
+{
+    margin-top: 20px; 
+}
+.rectangle
+{
+    height:100px;
+    width:600px;
+    border-radius: 15px;
+    margin-left: 50px;
+    transform: scale(1.0);
+    box-shadow: 0px 0px 9px -6px gray;
+}
+.reg2
+{
+    border-radius: 10px;
+    background-color: #43824f;
+    color: white;
+    margin-top: 35px;
+}
+
+/*----------End Header----------*/
+
+
+/*----------Start Category----------*/
+
+.row
+{
+    margin-top: 50px;
+}
+.col-xs-3
+{
+    height:300px;
+    width: 244px;
+    margin-left: 0px;
+    border-radius: 7px;
+    margin: 20px;
+    transform: scale(1.0);
+    box-shadow: 0px 0px 9px -6px gray;
+}
+.col-xs-3 img
+{
+    height:200px;
+    width: 244px;
+    border-top-left-radius:8px ;
+    border-top-right-radius:8px ;
+   
+
+}
+.col-xs-3  span  img
+{
+    height: 60px;
+    width: 60px;
+    margin-top: 15px;
+    margin-left: 90px;    
+    
+}
+.col-xs-3 p
+{
+    margin-top: 20px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+.g1
+{
+    margin-left: 305px;
+}
+
+/*----------End Category----------*/
+
+
+/*----------Start How We Works----------*/
+
+.col-6
+{
+    border-radius: 10px;
+    transform: scale(1.0);
+    box-shadow: 0px 0px 9px -6px gray;
+}
+.h1
+{
+    margin-top:100px;
+    font-family:"Nunito",sans-serif;
+    font-weight: bolder;
+}
+.c1
+{
+    height:150px;
+    width: 244px;
+    background-color:  #43824f;
+    text-align: center;
+    margin-left: 60px;
+    margin-top: 50px;
+    border-radius: 0px;
+}
+/*----------End How We Works----------*/
+
+
+/*----------Start About us----------*/
+
+.n
+{
+    margin-top:250px;
+    font-family:"Nunito",sans-serif;
+    font-weight: bolder;
+}
+
+/*----------Start About us----------*/
+
+
+/*----------Start Register----------*/
+.col-sm-3
+{
+    border-style: none;
+}
+.form-control
+{
+    background-color:#f8f8f8;
+    border: none;
+    border-radius:10px ;
+}
+.reg3
+{
+    background-color: #2d48c3;
+    color:#fff;
+    border-radius: 10px;
+    margin-top: 35px; 
+}
+
+/*----------End Register----------*/
+
+
+/*----------Start Get in Touch----------*/
+
+.col-sm-3 span img
+{
+    margin-top: 20px;
+    margin-left: 50px; 
+}
+.d1
+{
+    height:250px;
+    width: 244px;
+    background-color: #f8f8f8 ;
+    margin-left: 60px;
+    color: gray;
+    margin-top: 50px;
+    transform: scale(1.0);
+    box-shadow: 0px 0px 9px -6px gray;
+   
+}
+.d2
+{
+    transform: scale(1.0);
+    box-shadow: 0px 0px 9px -6px gray;
+    color: white;
+}
+.d1 span img
+{
+    margin-top: -70px;
+}
+.d1 .btn 
+{
+    border-radius: 15px;
+    margin-top: 70px;  
+    border: 2px solid white;
+    color: gray;
+}
+.d2 .btn
+{
+    border-radius: 15px;
+    margin-top: 70px;
+    border: 2px solid white;
+    color: black;
+}
+.d2
+{
+    height:250px;
+    width: 244px;
+    background-color: black;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.d2 span img
+{
+    margin-top: -70px;
+}
+
+
+/*----------End Get in Touch----------*/
+
+
+/*----------Start Footer----------*/
+
+.footer
+{
+    height: 150px;
+    background-color: #181b1d;
+    margin-top: 150px;
+}
+.footer .row
+{
+    height: 75px;
+    margin-left: 25px;
+}
+.footer .h6
+{
+    color: white;
+    text-align: center;
+}
+
+/*----------End Footer----------*/
+
+
